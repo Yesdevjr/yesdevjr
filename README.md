@@ -32,6 +32,13 @@
 
 <br>
 
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="The Office" />
+
+</div>
+
 ### Stack
 
 <div align="center">
@@ -96,9 +103,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesdevjr&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=555&locale=fr&langs_count=8" width="40%"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesdevjr&bg_color=00000000&color=555555&line=000000&point=000000&area=true&area_color=cccccc&hide_border=true" width="95%"/>
 
 </div>
 
