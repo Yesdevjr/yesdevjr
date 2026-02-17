@@ -51,7 +51,7 @@
 
 **Outils**
 
-<img src="https://skillicons.dev/icons?i=docker,git,cypress,jest,figma,vite,notion" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,cypress,jest,figma,vite,notion" />
 <img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" width="48" height="48" alt="YouTrack" style="border-radius: 8px;" />
 
 </div>
