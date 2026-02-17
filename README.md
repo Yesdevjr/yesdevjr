@@ -2,9 +2,9 @@
 
 <br>
 
-# Ilyes Ghardi
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Ilyes+Ghardi;Concepteur+d'Applications;Full-Stack+Next.js" alt="Typing SVG" />
 
-**Concepteur d'Applications · Full-Stack Next.js**
+<br><br>
 
 *France*
 
@@ -30,11 +30,42 @@
 
 ### Stack
 
-**Frontend** · ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff) ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=fff) ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=fff) ![Ionic](https://img.shields.io/badge/Ionic-000?style=flat-square&logo=ionic&logoColor=fff) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=radixui&logoColor=fff)
+<div align="center">
 
-**Backend** · ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=fff) ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma&logoColor=fff) ![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=fff) ![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square&logo=fastapi&logoColor=fff) ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=fff)
+**Frontend**
 
-**Outils** · ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=fff) ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=fff) ![Cypress](https://img.shields.io/badge/Cypress-000?style=flat-square&logo=cypress&logoColor=fff) ![Jest](https://img.shields.io/badge/Jest-000?style=flat-square&logo=jest&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=fff)
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/nextjs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/react" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/ionic" width="48px" />
+</div>
+
+<br>
+
+**Backend**
+
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/prisma" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/supabase" width="48px" />
+</div>
+
+<br>
+
+**Outils**
+
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/cypress" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/jest" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/figma" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/vite" width="48px" />
+</div>
+
+</div>
 
 <br>
 
