@@ -65,19 +65,34 @@
 
 <br>
 
-### Expériences
+### 💼 Expériences
 
-> **Teamsfinder** · 2026 — *Projet personnel*
-> SaaS matchmaking gaming · Full-Stack Next.js + TypeScript
-> Prisma · Supabase · shadcn/ui · i18n · SEO optimisé
-
-> **Num4** · 2025 — *Stage*
-> Plateforme musicale artistes · Next.js
-> Landing page · RevenueCat iOS & Android · UX/UI
-
-> **<ALT/> Incubateur** · 2023–2024 — *8 mois*
-> Application web/mobile extra-scolaire · React + Ionic
-> Node.js · Prisma · JWT · Docker · Cypress · Agile Scrum
+<table>
+<tr>
+<td width="120" align="center"><b>🚀</b><br><b>2026</b></td>
+<td>
+<b>Teamsfinder</b> — <i>Projet personnel</i><br>
+SaaS matchmaking gaming · Full-Stack Next.js + TypeScript<br>
+<code>Prisma</code> <code>Supabase</code> <code>shadcn/ui</code> <code>i18n</code> <code>SEO</code>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>🎵</b><br><b>2025</b></td>
+<td>
+<b>Num4</b> — <i>Stage</i><br>
+Plateforme musicale artistes · Next.js<br>
+<code>Landing page</code> <code>RevenueCat</code> <code>iOS & Android</code> <code>UX/UI</code>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>💻</b><br><b>2023–2024</b></td>
+<td>
+<b>&lt;ALT/&gt; Incubateur</b> — <i>8 mois</i><br>
+Application web/mobile extra-scolaire · React + Ionic<br>
+<code>Node.js</code> <code>Prisma</code> <code>JWT</code> <code>Docker</code> <code>Cypress</code> <code>Agile Scrum</code>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -116,7 +131,6 @@
 
 *Open to work — CDI Concepteur d'Applications*
 
-**Anglais B2** · Sens du détail · Autonomie technique · Agile
 
 <br>
 
