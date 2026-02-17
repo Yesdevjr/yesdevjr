@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Ilyes+Ghardi;Concepteur+d'Applications;Full-Stack+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Benhouss;Concepteur+d'Applications;Full-Stack+Next.js" alt="Typing SVG" />
 
 <br><br>
 
@@ -38,20 +38,21 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,react,vue,ts,tailwind" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
 
 <br><br>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase,mongodb,mysql" />
 
 <br><br>
 
 **Outils**
 
-<img src="https://skillicons.dev/icons?i=docker,git,cypress,jest,figma,vite" />
+<img src="https://skillicons.dev/icons?i=docker,git,cypress,jest,figma,vite,notion" />
+<img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" width="48" height="48" alt="YouTrack" style="border-radius: 8px;" />
 
 </div>
 
