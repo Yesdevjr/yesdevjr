@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="The Office" />
+<img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" width="300" alt="The Office" />
 
 </div>
 
