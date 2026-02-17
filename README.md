@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Ilyes+Ghardi;Concepteur+d'Applications;Full-Stack+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Ilyes+Ghardi;Concepteur+d'Applications;Full-Stack+Next.js" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,6 +24,10 @@
 *Je conçois et développe des applications web, mobiles et SaaS.*
 *Du prototype au déploiement — chaque détail compte.*
 
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+
 </div>
 
 <br>
@@ -34,36 +38,20 @@
 
 **Frontend**
 
-<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/nextjs" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/react" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/ionic" width="48px" />
-</div>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="48" height="48" alt="Ionic" />
 
-<br>
+<br><br>
 
 **Backend**
 
-<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/prisma" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/supabase" width="48px" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,supabase" />
 
-<br>
+<br><br>
 
 **Outils**
 
-<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/git" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/cypress" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/jest" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/figma" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/vite" width="48px" />
-</div>
+<img src="https://skillicons.dev/icons?i=docker,git,cypress,jest,figma,vite" />
 
 </div>
 
@@ -96,12 +84,20 @@
 
 <br>
 
-### Statistiques
+### Performances
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yesdevjr&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&icon_color=000&text_color=555&count_private=true&locale=fr" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yesdevjr&hide_border=true&background=FFFFFF00&ring=000&fire=000&currStreakLabel=000&sideLabels=555&dates=999&currStreakNum=000&sideNums=000&locale=fr" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesdevjr&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=555&locale=fr&langs_count=8" width="40%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yesdevjr&bg_color=00000000&color=555555&line=000000&point=000000&area=true&area_color=cccccc&hide_border=true" width="95%"/>
 
 </div>
 
