@@ -48,7 +48,7 @@
 
 <br><br>
 
-`Cinéma` · `Séries` · `Tech` · `Gaming`
+`Football` · `Musique` · `Jeux-vidéos`
 
 <br>
 
