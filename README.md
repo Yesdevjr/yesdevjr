@@ -45,9 +45,6 @@
 
 <img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" width="220" alt="The Office" />
   
-<img src="https://media.giphy.com/media/7zMsa4CDcXY7PEDNGN/giphy.gif" width="220" alt="Movie Night" />
-  
-<img src="https://media.giphy.com/media/FU8NV7tdIuL9Vra0DE/giphy.gif" width="220" alt="Cinema" />
 
 <br><br>
 
