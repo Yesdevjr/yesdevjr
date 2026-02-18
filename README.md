@@ -21,8 +21,11 @@
 
 <div align="center">
 
-*Je conçois et développe des applications web, mobiles et SaaS.*
-*Du prototype au déploiement — chaque détail compte.*
+### 👋 À propos
+
+<br>
+
+> *Passionné par le développement web et mobile, je conçois des applications modernes, performantes et centrées sur l'utilisateur. Du design au déploiement, j'apporte un soin particulier à chaque détail pour créer des expériences fluides et intuitives. Toujours curieux, j'explore les nouvelles technologies pour repousser les limites du possible.*
 
 <br>
 
@@ -32,16 +35,35 @@
 
 <br>
 
+---
+
+### 🎬 Passions
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" width="300" alt="The Office" />
+<br>
+
+<img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" width="220" alt="The Office" />
+  
+<img src="https://media.giphy.com/media/7zMsa4CDcXY7PEDNGN/giphy.gif" width="220" alt="Movie Night" />
+  
+<img src="https://media.giphy.com/media/FU8NV7tdIuL9Vra0DE/giphy.gif" width="220" alt="Cinema" />
+
+<br><br>
+
+`Cinéma` · `Séries` · `Tech` · `Gaming`
+
+<br>
 
 </div>
 
-### Stack
+---
+
+### 🛠 Stack
 
 <div align="center">
+
+<br>
 
 **Frontend**
 
@@ -61,55 +83,50 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,cypress,jest,figma,vite,notion" />
 <img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" width="48" height="48" alt="YouTrack" style="border-radius: 8px;" />
 
+<br>
+
 </div>
 
-<br>
+---
 
 ### 💼 Expériences
 
-<table>
-<tr>
-<td width="120" align="center"><b>🚀</b><br><b>2026</b></td>
-<td>
-<b>Teamsfinder</b> — <i>Projet personnel</i><br>
-SaaS matchmaking gaming · Full-Stack Next.js + TypeScript<br>
-<code>Prisma</code> <code>Supabase</code> <code>shadcn/ui</code> <code>i18n</code> <code>SEO</code>
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><b>🎵</b><br><b>2025</b></td>
-<td>
-<b>Num4</b> — <i>Stage</i><br>
-Plateforme musicale artistes · Next.js<br>
-<code>Landing page</code> <code>RevenueCat</code> <code>iOS & Android</code> <code>UX/UI</code>
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><b>💻</b><br><b>2023–2024</b></td>
-<td>
-<b>&lt;ALT/&gt; Incubateur</b> — <i>8 mois</i><br>
-Application web/mobile extra-scolaire · React + Ionic<br>
-<code>Node.js</code> <code>Prisma</code> <code>JWT</code> <code>Docker</code> <code>Cypress</code> <code>Agile Scrum</code>
-</td>
-</tr>
-</table>
+<div align="center">
 
 <br>
 
-### Projets
+| | Projet | Détails |
+|:---:|:---|:---|
+| **2026** | **Teamsfinder** — *Projet personnel* | SaaS matchmaking gaming · Full-Stack Next.js + TypeScript <br> `Prisma` `Supabase` `shadcn/ui` `i18n` `SEO` |
+| **2025** | **Num4** — *Stage* | Plateforme musicale artistes · Next.js <br> `Landing page` `RevenueCat` `iOS & Android` `UX/UI` |
+| **2023–24** | **&lt;ALT/&gt; Incubateur** — *8 mois* | Application web/mobile extra-scolaire · React + Ionic <br> `Node.js` `Prisma` `JWT` `Docker` `Cypress` `Agile Scrum` |
+
+<br>
+
+</div>
+
+---
+
+### 📌 Projets
 
 <div align="center">
+
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yesdevjr&repo=Bot-Discord-Serge-le-Mytho&hide_border=true&bg_color=00000000&title_color=000&icon_color=999&text_color=555)](https://github.com/Yesdevjr/Bot-Discord-Serge-le-Mytho)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yesdevjr&repo=Nurserie_U.Crypto&hide_border=true&bg_color=00000000&title_color=000&icon_color=999&text_color=555)](https://github.com/Yesdevjr/Nurserie_U.Crypto)
 
-</div>
-
 <br>
 
-### Performances
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yesdevjr&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&icon_color=000&text_color=555&count_private=true&locale=fr" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yesdevjr&hide_border=true&background=FFFFFF00&ring=000&fire=000&currStreakLabel=000&sideLabels=555&dates=999&currStreakNum=000&sideNums=000&locale=fr" width="48%"/>
@@ -118,10 +135,9 @@ Application web/mobile extra-scolaire · React + Ionic<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesdevjr&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=555&locale=fr&langs_count=8" width="40%"/>
 
+<br>
 
 </div>
-
-<br>
 
 ---
 
@@ -130,7 +146,6 @@ Application web/mobile extra-scolaire · React + Ionic<br>
 <br>
 
 *Open to work — CDI Concepteur d'Applications*
-
 
 <br>
 
